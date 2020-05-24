@@ -3,10 +3,24 @@ covid19_mask_sentiment
 
 A covid-19 mask sentiment analysis inspired by a conflict of information presented online regarding mask effectiveness and should one wear one. This is an active tracking project that I built a publicly accessible app for monitoring the data. 
 
-You can visit the app [here](https://covid19-mask-sentiment.herokuapp.com/)
+You can visit the app [here](https://covid19-mask-sentiment.herokuapp.com/).
+You can also read more about the porject on [Medium](https://medium.com/p/a104170ad9a7/edit).
+
 ![AppImage](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/app_pic.JPG)
 
+##### Topic Modeling + Cluster Findings:
 
+![Milestones](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/Asset2.jpg)
+
+##### Covid 19 make-related milestones that inspired this project:
+
+![Milestones](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/Asset3.jpg)
+
+
+##### Useful resources to build the dash-flask app:
+
+[Live graph tutourial by Sentex on Youtube](https://www.youtube.com/watch?v=bz2zqXFjOrE)
+[Plotly Dash official examples](https://dash-gallery.plotly.host/Portal/)
 
 Project Organization
 ------------
@@ -27,4 +41,4 @@ Project Organization
      
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+Thank you.
