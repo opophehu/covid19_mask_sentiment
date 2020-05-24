@@ -8,12 +8,13 @@ You can also read more about the porject on [Medium](https://medium.com/p/a10417
 
 ![AppImage](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/app_pic.JPG)
 
-### Topic Modeling + Cluster Findings:
 ------------
+### Topic Modeling + Cluster Findings:
+
 
 ![Findings](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/Asset2.jpg)
 
-
+------------
 Project Organization
 ------------
 
@@ -34,9 +35,9 @@ Project Organization
 --------
 
 ### Useful resources to build the dash-flask app:
-------------
+
 [Live graph tutourial by Sentex on Youtube](https://www.youtube.com/watch?v=bz2zqXFjOrE)
 [Plotly Dash official examples](https://dash-gallery.plotly.host/Portal/)
 
-
+--------
 Thank you.
