@@ -30,7 +30,7 @@ Project Organization
     │
     ├── notebooks          <- Main file is "US_sentiment_vs_infection_analysis", other notebook files are supplemental.
     │
-    ├── presentation            <- presentation made for this project.
+    ├── presentation       <- presentation made for this project.
     │
     └── requirements.txt   <- The requirements file for reproducing the analysis environment.
      
