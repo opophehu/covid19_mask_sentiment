@@ -8,11 +8,13 @@ You can also read more about the porject on [Medium](https://medium.com/p/a10417
 
 ![AppImage](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/app_pic.JPG)
 
-##### Topic Modeling + Cluster Findings:
+### Topic Modeling + Cluster Findings:
+------------
 
-![Milestones](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/Asset2.jpg)
+![Findings](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/Asset2.jpg)
 
-##### Covid 19 make-related milestones that inspired this project:
+### Covid 19 make-related milestones that inspired this project:
+------------
 
 ![Milestones](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/Asset3.jpg)
 
