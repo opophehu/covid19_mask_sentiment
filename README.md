@@ -13,16 +13,6 @@ You can also read more about the porject on [Medium](https://medium.com/p/a10417
 
 ![Findings](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/Asset2.jpg)
 
-### Covid 19 make-related milestones that inspired this project:
-------------
-
-![Milestones](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/Asset3.jpg)
-
-
-##### Useful resources to build the dash-flask app:
-
-[Live graph tutourial by Sentex on Youtube](https://www.youtube.com/watch?v=bz2zqXFjOrE)
-[Plotly Dash official examples](https://dash-gallery.plotly.host/Portal/)
 
 Project Organization
 ------------
@@ -42,5 +32,11 @@ Project Organization
     └── requirements.txt   <- The requirements file for reproducing the analysis environment.
      
 --------
+
+### Useful resources to build the dash-flask app:
+------------
+[Live graph tutourial by Sentex on Youtube](https://www.youtube.com/watch?v=bz2zqXFjOrE)
+[Plotly Dash official examples](https://dash-gallery.plotly.host/Portal/)
+
 
 Thank you.
