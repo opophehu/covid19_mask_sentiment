@@ -1,11 +1,11 @@
 covid19_mask_sentiment
 ==============================
 
-A covid-19 mask sentiment analysis inspired by a conflict of information presented online regarding mask effectiveness and should one wear one. This is an active tracking project that I built a publicly accessible app for monitoring the data. 
+A covid-19 mask sentiment analysis inspired by a conflict of information presented online and offline regarding mask effectiveness and if one should wear one. This is an active tracking project and I built a publicly accessible app for monitoring the data. 
 
 You can visit the app [here](https://covid19-mask-sentiment.herokuapp.com/).  
 
-You can also read more about the porject on [Medium](https://medium.com/p/a104170ad9a7/edit).  
+You can also read more about the project on [Medium](https://medium.com/p/a104170ad9a7/edit).  
 
 
 ![AppImage](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/app_pic.JPG)
