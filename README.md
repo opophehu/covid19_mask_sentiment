@@ -1,57 +1,30 @@
 covid19_mask_sentiment
 ==============================
 
-A covid-19 mask sentiment analysis inspired by a conflict of information presented online regarding mask effectiveness and should one wear one. This is an active tracking project that I built an publicly accessible app for monitoring the data. 
+A covid-19 mask sentiment analysis inspired by a conflict of information presented online regarding mask effectiveness and should one wear one. This is an active tracking project that I built a publicly accessible app for monitoring the data. 
+
+You can visit the app [here](https://covid19-mask-sentiment.herokuapp.com/)
+![AppImage](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/app_pic.JPG)
+
+
 
 Project Organization
 ------------
 
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
+    ├── README.md        
     ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    │   ├── processed      <- Processed historical tweet data (1/1 to 5/1, 2020)
+    │   └── raw            <- Raw historical data.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+    ├── models             <- Contains trained Kmeans Cluster Model and specialized word2Vec model.
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    ├── notebooks          <- Main file is "US_sentiment_vs_infection_analysis", other notebook files are supplemental.
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
+    ├── presentation            <- presentation made for this project.
     │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-
-
+    └── requirements.txt   <- The requirements file for reproducing the analysis environment.
+     
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
