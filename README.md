@@ -28,7 +28,7 @@ Project Organization
     │
     ├── models             <- Contains trained Kmeans Cluster Model and specialized word2Vec model.
     │
-    ├── notebooks          <- Majority of the code is here, I may add some more steps in "Historical Data Analysis" as it doesn't fully     │                         reflect all the steps I have taken.
+    ├── notebooks          <- Majority of the code is here, I may add some more steps in "Historical Data Analysis" as it doesn't fully reflect all the steps I have taken.
     │
     ├── presentation       <- presentation made for this project.
     │
