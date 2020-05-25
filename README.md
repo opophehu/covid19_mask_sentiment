@@ -14,7 +14,7 @@ You can also read more about the project on [Medium](https://medium.com/p/a10417
 ### Topic Modeling + Cluster Findings:
 
 
-![Findings](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/Asset2.jpg)
+![Findings](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/findings.jpg)
 
 ------------
 Project Organization
@@ -28,7 +28,7 @@ Project Organization
     │
     ├── models             <- Contains trained Kmeans Cluster Model and specialized word2Vec model.
     │
-    ├── notebooks          <- Main file is "US_sentiment_vs_infection_analysis", other notebook files are supplemental.
+    ├── notebooks          <- Majority of the code is here, I may add some more steps in "Historical Data Analysis" as it doesn't fully     │                         reflect all the steps I have taken.
     │
     ├── presentation       <- presentation made for this project.
     │
